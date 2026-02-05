@@ -22,7 +22,7 @@ This folder contains assignments and personal implementations of core DL concept
 
 
 ### 2. Everyone's Deep Learning (모두의 딥러닝)
-**Focus:** Building the mathematical foundations. [Reference: Official Source Code](https://github.com/taehojo/deeplearning)
+**Focus:** Building the mathematical foundations. **Reference**: [Official Source Code](https://github.com/taehojo/deeplearning)
 * Understanding Backpropagation from scratch.
 * Basic Keras implementations for regression and classification.
 
