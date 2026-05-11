@@ -1,4 +1,4 @@
-# Wine Multiclass Classification with PyTorch
+# PyTorch 다중분류 포트폴리오: 와인 품종 분류
 
 sklearn `load_wine` 데이터셋(N=178, 13 features, 3 classes)을 사용한 MLP 다중 분류 실습. ver0 baseline의 두 가지 학습 실패 원인을 진단하고 ver1에서 수정한 사례.
 
